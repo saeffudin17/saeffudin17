@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./welcome.svg" alt="Welcome" width="100%">
+</p>
+
 ```bash
 saef@kali ~ % whoami
 i'm saeffudin
